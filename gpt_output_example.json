@@ -1,0 +1,88 @@
+[
+    {
+        "patient_information": {
+            "age": 75,
+            "age_unit": "year",
+            "gender": "female",
+            "ethnic_group": "Japanese"
+        },
+        "patient_lab_tests": [],
+        "initial_condition": [
+            {
+                "reported_term_local": "Worsening heart failure",
+                "intensity": "",
+                "duration": "",
+                "duration_unit": ""
+            },
+            {
+                "reported_term_local": "Rest pain in right lower leg",
+                "intensity": "",
+                "duration": "1 week",
+                "duration_unit": "after admission"
+            },
+            {
+                "reported_term_local": "Critical limb ischemia",
+                "intensity": "",
+                "duration": "",
+                "duration_unit": ""
+            }
+        ],
+        "patient_examination": [
+            {
+                "exam_text": "A 75-year-old Japanese female with a history of diabetes mellitus, smoking, and PAD, underwent lower-extremity peripheral vascular intervention using Fowler’s position and the Terumo R2P system for treatment of right SFA chronic total occlusion. Post-procedure, her ABI improved to 0.78 in the right leg, and she was discharged 1 week after PVI. At 6 months post-PVI, she was free from pain in her right lower leg with an ABI of 0.72."
+            }
+        ],
+        "csr_product": [
+            {
+                "product_indicator": "Device",
+                "product_name": "Terumo R2P system",
+                "csr_prod_reaction": [
+                    {
+                        "reaction": "Successful treatment of superficial artery diseases with long shaft balloons and rapid-exchange Terumo R2P Misago stents"
+                    }
+                ],
+                "csr_prod_drug_dosage": []
+            }
+        ]
+    },
+    {
+        "patient_information": {
+            "age": 74,
+            "age_unit": "year",
+            "gender": "male",
+            "ethnic_group": "Japanese"
+        },
+        "patient_lab_tests": [],
+        "initial_condition": [
+            {
+                "reported_term_local": "Intermittent claudication",
+                "intensity": "",
+                "duration": "5 months",
+                "duration_unit": ""
+            },
+            {
+                "reported_term_local": "Chronic total occlusion in both SFAs",
+                "intensity": "",
+                "duration": "",
+                "duration_unit": ""
+            }
+        ],
+        "patient_examination": [
+            {
+                "exam_text": "A 74-year-old Japanese male with a history of hypertension, dyslipidemia, smoking, and PAD, underwent lower-extremity peripheral vascular intervention using Fowler’s position and the Terumo R2P system for treatment of CTO lesions in both SFAs. Post-procedure, his ABI improved to 1.00 in the right leg and 1.01 in the left leg. He was discharged 2 days after PVI. At 12 months post-PVI, he was free from claudication with ABIs of 0.95 (right) and 0.98 (left)."
+            }
+        ],
+        "csr_product": [
+            {
+                "product_indicator": "Device",
+                "product_name": "Terumo R2P system",
+                "csr_prod_reaction": [
+                    {
+                        "reaction": "Successful treatment of superficial artery diseases with long shaft balloons and rapid-exchange Terumo R2P Misago stents"
+                    }
+                ],
+                "csr_prod_drug_dosage": []
+            }
+        ]
+    }
+]
